@@ -102,6 +102,24 @@ The day finished with Morten introducing Tony — his personal AI assistant — 
 
 Each session has its own folder under [`/sessions`](./sessions).
 
+```text
+tpd26/
+│
+├── README.md
+├── assets/
+│   └── tpd26-sponsors.png
+│
+└── sessions/
+    ├── nikos-delis/
+    ├── tore-nestenius/
+    ├── andreas-sobczyk/
+    ├── mike-wojtyna/
+    ├── matias-julian-christoffersen/
+    ├── maish-saidel-keesing/
+    ├── erik-ejlskov-jensen/
+    └── morten-christensen/
+```
+
 The individual folders contain whatever material each speaker has chosen to share. That may include:
 
 - Presentation slides
@@ -112,6 +130,19 @@ The individual folders contain whatever material each speaker has chosen to shar
 - Speaker notes and supporting material
 
 Not every session will necessarily contain the same type or amount of material.
+
+## Sponsors
+
+Tech Passion Day would not be possible without the companies that support the event, the community, and the idea behind it.
+
+A big thank you to our TPD26 sponsors:
+
+- **Kraftvaerk**
+- **Danske Bank**
+- **Twoday**
+- **Talking Ducks**
+
+Their support helps us keep Tech Passion Day focused on what matters most: bringing people together around technology, curiosity, learning, and sharing.
 
 ## About TPD26
 
@@ -148,3 +179,7 @@ That is pretty much what Tech Passion Day is all about.
 ---
 
 [Tech Passion Day](https://techpassionday.com) · [TPD26](https://techpassionday.com/2026) · [Agenda](https://techpassionday.com/2026/agenda)
+
+---
+
+![Tech Passion Day 2026 sponsors and event illustration](./assets/tpd26-sponsors.png)
